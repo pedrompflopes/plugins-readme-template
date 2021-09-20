@@ -150,13 +150,12 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Your Name - AST Integration Team
 
 Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
 
 
-
-
+© 2021 Checkmarx Ltd. All Rights Reserved.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
