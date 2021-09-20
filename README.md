@@ -150,7 +150,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - AST Integration Team
+Your Name - AST Integrations Team
 
 Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
 
