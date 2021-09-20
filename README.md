@@ -160,14 +160,14 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
-[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
-[forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
-[stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
-[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/Checkmarx/ast-cli.svg
+[contributors-url]: https://github.com/Checkmarx/ast-cli/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/Checkmarx/ast-cli.svg
+[forks-url]: https://github.com/Checkmarx/ast-cli/network/members
+[stars-shield]: https://img.shields.io/github/stars/Checkmarx/ast-cli.svg
+[stars-url]: https://github.com/Checkmarx/ast-cli/stargazers
+[issues-shield]: https://img.shields.io/github/issues/Checkmarx/ast-cli.svg
+[issues-url]: https://github.com/Checkmarx/ast-cli/issues
+[license-shield]: https://img.shields.io/github/license/Checkmarx/ast-cli.svg
+[license-url]: https://github.com/Checkmarx/ast-cli/blob/master/LICENSE
 [product-screenshot]: images/screenshot.png
